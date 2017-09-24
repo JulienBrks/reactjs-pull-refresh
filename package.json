@@ -15,7 +15,9 @@
     "component"
   ],
   "main": "dist/index.js",
-  "scripts": {},
+  "scripts": {
+    "install": "npm install --dev"
+  },
   "dependencies": {
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
